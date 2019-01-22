@@ -1,0 +1,2 @@
+# queryOraclePriAndUniKey
+查询一个oracle库下所有表的主键和唯一键
